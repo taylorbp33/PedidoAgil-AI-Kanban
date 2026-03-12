@@ -111,4 +111,4 @@ Este sistema resolve isso ao transformar o pedido em **um pipeline operacional c
 LinkedIn: https://www.linkedin.com/in/taylor-pinheiro-/?locale=pt_BR![Uploading image.png…]()
 
 
-Portfólio: [link]
+Portfólio: (https://github.com/taylorbp33?tab=repositories)
